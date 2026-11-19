@@ -1,0 +1,17 @@
+
+[
+  {
+    "id": "Q001",
+    "question": "What is tokenization in large language models?",
+    "expected_answer": "Tokenization is the process of splitting input text into smaller units called tokens.",
+    "keywords": ["splitting", "text", "tokens"],
+    "source": "https://huggingface.co/docs/transformers/en/tokenizer_summary"
+  },
+  {
+    "id": "Q002",
+    "question": "What is a token?",
+    "expected_answer": "A token is a unit of text such as a word, subword, character or punctuation mark processed by a language model.",
+    "keywords": ["unit", "text", "word", "subword"],
+    "source": "https://huggingface.co/docs/transformers/en/tokenizer_summary"
+  }
+]
